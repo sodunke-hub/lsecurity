@@ -18,7 +18,7 @@ const Footer = () => {
             className="bg-primary hover:bg-primary/90 text-primary-foreground text-lg px-8 py-6 font-bold glow-primary transition-all hover:scale-105"
             asChild
           >
-            <a href="https://YOUR-GUMROAD-LINK" target="_blank" rel="noopener noreferrer">
+            <a href="https://gumroad.com/checkout?product=jyglfk&quantity=1&_gl=1*1mk24ab*_ga*MTUyMTY1MjA5OS4xNzY0MDgxNzM2*_ga_6LJN6D94N6*czE3NjQwODE3MzUkbzEkZzEkdDE3NjQwODIwMzMkajYwJGwwJGgw" target="_blank" rel="noopener noreferrer">
               Enroll Now — Only $27
             </a>
           </Button>
